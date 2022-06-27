@@ -39,7 +39,7 @@ peki bu nasıl oluyor? va_arg, okuduğu yeri tekrar okumaz (read gibi). Biz tüm
 	           ----------str--------------  ---------args---------
 ~~~
 
-4- va_and    --> args'ların bittiği anlamına getir.
+4- va_end    --> args'ların bittiği anlamına getir.
 ~~~
 	va_end(args);
 ~~~
